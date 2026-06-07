@@ -1,4 +1,4 @@
-# test_app
+# flutter_interview_q
 
 A new Flutter project.
 
