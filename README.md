@@ -13,7 +13,7 @@ This repository is designed to demonstrate one of the most common and critical c
 > *"Assume this screen has three buttons. You click the red button once, the blue button twice, and then press 'Hide Button'. What will the UI look like after that — and why?"*
 
 <p align="center">
-  <img src="assets/interview_question.png" alt="The Interview Question Screenshot" width="350"/>
+  <img src="assets/interview_question_v2.png" alt="The Interview Question Screenshot" width="350"/>
 </p>
 
 ---
