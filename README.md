@@ -4,6 +4,16 @@ This repository is designed to demonstrate one of the most common and critical c
 
 ---
 
+## ❓ The Interview Question
+
+> [!NOTE]
+> **Scenario:**
+> The interviewer shows you the Flutter code in this repository and asks:
+> 
+> *"Assume this screen has three buttons. You click the red button once, the blue button twice, and then press 'Hide Button'. What will the UI look like after that — and why?"*
+
+---
+
 ## 📱 The Demo Scenario
 
 In [lib/main.dart](file:///c:/Shakirullah25/flutter/projects/flutter_interview_q/lib/main.dart), we have a simple application:
