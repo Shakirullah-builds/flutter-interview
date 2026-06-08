@@ -29,10 +29,15 @@ class _HomeState extends State<Home> {
           children: [
             ElevatedButton(
               onPressed: () {
-                showBtn = false;
-                setState(() {});
+                setState(() {
+                  if (showBtn == true) {
+                    showBtn = false;
+                  } else {
+                    showBtn = true;
+                  }
+                });
               },
-              child: const Text("Hide Btn"),
+              child: Text(showBtn ? 'Hide Btn' : 'Show Btn'),
             ),
 
             if (showBtn)
